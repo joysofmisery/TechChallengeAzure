@@ -15,4 +15,4 @@ elixir
 
 # solution
 
-I'm unable to answer this question as this is someting I've not worked on till date.
+I'm unable to answer this question as this is something I've not worked on till date.
